@@ -1,4 +1,5 @@
 ![Model](https://github.com/pbkilijas/nas_prvi_repozitorij/blob/main/static/Sveska.png)
+![Model](https://cdn.thewirecutter.com/wp-content/media/2020/11/notebooks-2048px-2008.jpg?auto=webp&quality=75&width=1024)
 
 # Table of Contents
 1. [Nas nulti naslov](#nas-nulti-naslov)
@@ -6,6 +7,7 @@
 3. [Nas prvi podnaslov](#nas-prvi-podnaslov)
 
 # Nas nulti naslov
+![Model](https://github.com/pbkilijas/nas_prvi_repozitorij/blob/main/static/izlaz_1.png)
 
 > Ovo je neka linija
 

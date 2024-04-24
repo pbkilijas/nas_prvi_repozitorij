@@ -1,3 +1,16 @@
+# Seminarski rad iz informatike
+
+- Napraviti Github account
+- Napraviti prvi javni repozitorij
+- Riješiti tri zadatka iz funkcija i dodati u vaš prvi javni repozitorij
+- Dodati README fajl sa sljedećim osobinama:
+  - Naslov
+  - Podnaslov
+  - Slike
+  - Tabela
+  - Linkovi
+  - Ostalo
+
 ![Model](https://github.com/pbkilijas/nas_prvi_repozitorij/blob/main/static/Sveska.png)
 
 Kako postaviti sliku sa neta

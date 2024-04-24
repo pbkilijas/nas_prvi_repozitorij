@@ -6,8 +6,8 @@
 # Nas nulti naslov
 
 1. Gospodar burmi: Džemat prstena
-  1. Director's cut
-  2. Snyder's cut
+  a. Director's cut
+  b. Snyder's cut
 3. Gospodar burmi: Dvije munare
 4. Gospodar burmi: Povratak reisa
 

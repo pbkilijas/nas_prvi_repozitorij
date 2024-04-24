@@ -1,3 +1,5 @@
+![Model](https://github.com/pbkilijas/nas_prvi_repozitorij/blob/main/static/Sveska.png)
+
 # Table of Contents
 1. [Nas nulti naslov](#nas-nulti-naslov)
 2. [Nas prvi naslov](#nas-prvi-naslov)

@@ -6,11 +6,13 @@
 # Nas nulti naslov
 
 1. Gospodar burmi: Džemat prstena
-2. Gospodar burmi: Dvije munare
-3. Gospodar burmi: Povratak reisa
+  1. Director's cut
+  2. Snyder's cut
+3. Gospodar burmi: Dvije munare
+4. Gospodar burmi: Povratak reisa
 
 - Shawshank Redemption
-- Dr. House
+- Dr. House  
   - Sezona 1
   - Sezona 2
   - Sezona 3

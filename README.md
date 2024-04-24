@@ -1,12 +1,18 @@
 ![Model](https://github.com/pbkilijas/nas_prvi_repozitorij/blob/main/static/Sveska.png)
+
+Kako postaviti sliku sa neta
+- Desni klik na sliku sa neta i odabrati Kopiraj adresu slike
+- Postaviti URL između običnih zagrada
 ![Model](https://cdn.thewirecutter.com/wp-content/media/2020/11/notebooks-2048px-2008.jpg?auto=webp&quality=75&width=1024)
 
 # Table of Contents
+Kako napraviti sadržaj
 1. [Nas nulti naslov](#nas-nulti-naslov)
 2. [Nas prvi naslov](#nas-prvi-naslov)
 3. [Nas prvi podnaslov](#nas-prvi-podnaslov)
 
 # Nas nulti naslov
+Kako postaviti sliku u README iz static foldera:
 ![Model](https://github.com/pbkilijas/nas_prvi_repozitorij/blob/main/static/izlaz_1.png)
 
 > Ovo je neka linija
@@ -29,6 +35,9 @@
 
 # Nas prvi naslov
 
+Kako postaviti sliku koja je kopirana
+- Pritisnuti print screen dugme na tastaturi, zavisno od alata, odabrati koji dio da se screenshot-a
+- CTRL + V tokom editovanja README.md fajla
 ![image](https://github.com/pbkilijas/nas_prvi_repozitorij/assets/167958999/cc930267-199c-4c29-9d73-efb09774d902)
 
 
